@@ -1,7 +1,7 @@
 - 👋 Hi, I’m utgardc
-- 👀 I’m interested in utgardc
-- 🌱 I’m currently learning utgardc
-- 💞️ I’m looking to collaborate on utgardc
+- 👀 I’m interested in game development 
+- 🌱 I’m currently learning Unity
+- 💞️ I’m looking to collaborate on card games
 - 📫 How to reach me utgardc
 
 <!---
